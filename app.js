@@ -11,7 +11,7 @@ const weather = {};
 weather.temperature = {
     unit : "celsius"
 }
-
+// account NOT needed for API key 
 // APP CONSTS AND VARS
 const KELVIN = 273;
 // API KEY
